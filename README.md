@@ -1,2 +1,2 @@
-8c1e608109227c3def50a77fb975d88e70ac0b93 Ci
+# Ci
 Kamera
